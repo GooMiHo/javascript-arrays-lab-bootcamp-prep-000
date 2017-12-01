@@ -17,7 +17,7 @@ function destructivelyRemoveLastKitten() {
   return kittens;
 }
 
-function destructivelyRemoveFistKitten() {
+function destructivelyRemoveFirstKitten() {
   kittens.shift();
   return kittens;
 }
